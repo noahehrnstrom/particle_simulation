@@ -10,7 +10,7 @@ std::vector<sf::Vector2f> pos;
 std::vector<sf::Vector2f> vel;
 std::vector<sf::Color> cs;
 
-float size = 15000;
+float size = 120000;
 
 sf::RenderWindow window(sf::VideoMode::getDesktopMode(), "particles", sf::Style::Fullscreen);
 //sf::RenderWindow window(sf::VideoMode(2000, 1000), "particles");
