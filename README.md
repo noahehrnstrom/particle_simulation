@@ -25,7 +25,7 @@ make
 ```
 
 ### Usage
-Just run the followin executable
+Just run the following executable
 ```Bash
 ./simulation
 ```
